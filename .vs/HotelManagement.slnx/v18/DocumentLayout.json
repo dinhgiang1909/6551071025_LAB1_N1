@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|d:\\cosonganh\\laptrinhtrucquan\\hotelmanagement\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B411DAF6-2794-495B-A601-FD927B94E0FE}|HotelManagement.csproj|D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B411DAF6-2794-495B-A601-FD927B94E0FE}|HotelManagement.csproj|solutionrelative:dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|d:\\cosonganh\\laptrinhtrucquan\\hotelmanagement\\dangnhap\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:dangnhap\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:formtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|d:\\cosonganh\\laptrinhtrucquan\\hotelmanagement\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|d:\\cosonganh\\laptrinhtrucquan\\hotelmanagement\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|d:\\cosonganh\\laptrinhtrucquan\\hotelmanagement\\hotelmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:hotelmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|d:\\cosonganh\\laptrinhtrucquan\\hotelmanagement\\models\\hotelmanagementcontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:models\\hotelmanagementcontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|d:\\cosonganh\\laptrinhtrucquan\\hotelmanagement\\models\\hotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5A2494-8502-5161-C802-5DF5FD400A26}|HotelManagement.csproj|solutionrelative:models\\hotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\FormTrangChu.cs",
+              "RelativeDocumentMoniker": "FormTrangChu.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\FormTrangChu.cs [Design]",
+              "RelativeToolTip": "FormTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:48:01.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap\\FormDangNhap.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "DangNhap\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:42:40.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\Models\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Models\\TaiKhoan.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\Models\\TaiKhoan.cs",
+              "RelativeToolTip": "Models\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:05:53.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap\\FormDangNhap.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.cs",
+              "RelativeToolTip": "DangNhap\\FormDangNhap.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:27:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "DangNhap\\FormDangNhap.Designer.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.Designer.cs",
+              "RelativeToolTip": "DangNhap\\FormDangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:26:21.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap\\FormDangNhap.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\DangNhap\\FormDangNhap.cs [Design]*",
+              "RelativeToolTip": "DangNhap\\FormDangNhap.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:22:08.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelManagement",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\HotelManagement.csproj",
+              "RelativeDocumentMoniker": "HotelManagement.csproj",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\HotelManagement.csproj",
+              "RelativeToolTip": "HotelManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-26T01:15:51.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hotelmanagementcontext.custom.cs",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\Models\\Hotelmanagementcontext.custom.cs",
+              "RelativeDocumentMoniker": "Models\\Hotelmanagementcontext.custom.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\Models\\Hotelmanagementcontext.custom.cs",
+              "RelativeToolTip": "Models\\Hotelmanagementcontext.custom.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:10:54.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HotelManagementContext.cs",
+              "DocumentMoniker": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\Models\\HotelManagementContext.cs",
+              "RelativeDocumentMoniker": "Models\\HotelManagementContext.cs",
+              "ToolTip": "D:\\COSONGANH\\LapTrinhTrucQuan\\HotelManagement\\Models\\HotelManagementContext.cs",
+              "RelativeToolTip": "Models\\HotelManagementContext.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:08:19.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
