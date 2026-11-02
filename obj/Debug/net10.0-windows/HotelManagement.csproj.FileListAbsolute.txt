@@ -81,3 +81,4 @@ D:\COSONGANH\LapTrinhTrucQuan\HotelManagement\bin\Debug\net10.0-windows\ExcelNum
 D:\COSONGANH\LapTrinhTrucQuan\HotelManagement\bin\Debug\net10.0-windows\RBush.dll
 D:\COSONGANH\LapTrinhTrucQuan\HotelManagement\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
 D:\COSONGANH\LapTrinhTrucQuan\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.FormTrangChu.resources
+D:\COSONGANH\LapTrinhTrucQuan\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.sourcelink.json
